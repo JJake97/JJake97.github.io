@@ -1,3 +1,14 @@
+---
+layout: single
+title: 'Python_df #2'
+categories: Python_DataFrame
+tag: Python
+toc: true
+author_profile: false
+sidebar:
+  nav: 'docs'
+---
+
 ## DataFrame 다루기
 
 ### DataFrame indexing 문법
