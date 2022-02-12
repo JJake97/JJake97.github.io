@@ -1,6 +1,12 @@
 ---
 layout: signle
 title: 'Python_DataFrame #1'
+categories: Python_DataFrame
+tag: Python
+toc: true
+author_profile: false
+sidebar:
+  nav: 'docs'
 ---
 
 
