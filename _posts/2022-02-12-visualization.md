@@ -1,3 +1,14 @@
+---
+layout: single
+title: 'Python_Visualization #1'
+categories: Python_visualization
+tag: Python
+toc: true
+author_profile: false
+sidebar:
+  nav: 'docs'
+---
+
 # 시각화
 
 - row data를 활용하는 것 보다 분석에 도움을 준다
