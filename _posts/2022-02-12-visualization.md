@@ -128,7 +128,7 @@ df
 </table>
 </div>
 
-![output_6_1](/Users/jake/Downloads/선그래프/output_6_1.png)
+
 
 
 ```python
@@ -143,9 +143,7 @@ df.plot(kind = 'line')
 
 
 
-​    
-![png](output_4_1.png)
-​    
+![output_4_1](/assets/images/output_4_1.png){: width="50%" height="50%"}
 
 
 선그래프를 활용하면 데이터의 추이를 확인하는데 편리하다
@@ -163,9 +161,7 @@ df.plot(y = 'KBS')
 
 
 
-​    
-![png](output_6_1.png)
-​    
+![output_6_1](/assets/images/output_6_1.png){: width="50%" height="50%"}
 
 
 
@@ -181,9 +177,7 @@ df.plot(y = ["KBS", 'JTBC'])
 
 
 
-​    
-![png](output_7_1.png)
-​    
+![output_7_1](/assets/images/output_7_1.png){: width="50%" height="50%"}
 
 
 
@@ -271,9 +265,7 @@ df[['KBS', 'JTBC']].plot()
 
 
 
-​    
-![png](output_9_1.png)
-​    
+![output_9_1](/assets/images/output_9_1.png){: width="50%" height="50%"} 
 
 
 
@@ -289,9 +281,7 @@ df['KBS'].plot()
 
 
 
-​    
-![png](output_10_1.png)
-​    
+![output_10_1](/assets/images/output_10_1.png){: width="50%" height="50%"}
 
 
 pandas DataFrame의 plot()의 default 값은 선그래프이다.
@@ -321,9 +311,7 @@ df.plot(kind='bar')
 
 
 
-​    
-![png](output_14_1.png)
-​    
+![output_14_1](/assets/images/output_14_1.png){: width="50%" height="50%"}
 
 
 
@@ -339,9 +327,7 @@ df.plot(kind = 'bar', stacked = True)
 
 
 
-​    
-![png](output_15_1.png)
-​    
+![output_15_1](/assets/images/output_15_1.png){: width="50%" height="50%"} 
 
 
 stacked 기능을 활용해서 데이터가 쌓이는 형태의 그래프를 그릴수도 있다
@@ -374,7 +360,5 @@ df.plot(y = 'count', kind = 'bar')
 
 
 
-​    
-![png](output_18_1.png)
-​    
+![output_18_1](/assets/images/output_18_1.png){: width="50%" height="50%"}
 
