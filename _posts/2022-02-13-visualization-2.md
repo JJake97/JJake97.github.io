@@ -134,7 +134,8 @@ result.plot(y = 'count', kind = 'pie')
 
 
     
-![png](output_8_1.png)
+![output_8_1](/assets/images/visual_2/output_8_1.png)
+
     
 
 
@@ -259,7 +260,7 @@ df.plot(kind = 'hist', y = 'Height')
 
 
     
-![png](output_12_1.png)
+![output_12_1](/assets/images/visual_2/output_12_1.png)
     
 
 
@@ -277,7 +278,7 @@ df.plot(kind = 'hist', y = 'Height', bins = 15)
 
 
     
-![png](output_13_1.png)
+![output_13_1](/assets/images/visual_2/output_13_1.png)
     
 
 
@@ -297,7 +298,7 @@ df.plot(kind = 'hist', y = 'Height', bins = 200)
 
 
     
-![png](output_15_1.png)
+![output_15_1](/assets/images/visual_2/output_15_1.png)
     
 
 
@@ -324,7 +325,7 @@ df.plot(y = ['math score', 'reading score', 'writing score'], kind = 'box')
 
 
     
-![png](output_18_1.png)
+![output_18_1](/assets/images/visual_2/output_18_1.png)
     
 
 
@@ -454,7 +455,7 @@ df.plot(kind = 'scatter', x = 'math score', y = 'reading score')
 
 
     
-![png](output_22_1.png)
+![output_22_1](/assets/images/visual_2/output_22_1.png)
     
 
 
@@ -472,7 +473,7 @@ df.plot(kind = 'scatter', x = 'reading score', y = 'writing score')
 
 
     
-![png](output_23_1.png)
+![output_23_1](/assets/images/visual_2/output_23_1.png)
     
 
 
