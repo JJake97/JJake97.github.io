@@ -1,3 +1,14 @@
+---
+layout: single
+title: 'Python_Visualization #2'
+categories: Python_visualization
+tag: Python
+toc: true
+author_profile: false
+sidebar:
+  nav: 'docs'
+---
+
 ## 파이그래프
 
 - 비율을 나타내는 그래프
