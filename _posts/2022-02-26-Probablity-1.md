@@ -1,3 +1,14 @@
+---
+layout: single
+title: 'Probability #1'
+categories: probablity
+tag: Probablity
+toc: true
+author_profile: false
+sidebar:
+  nav: 'docs'
+---
+
 # 통계
 
 - 데이터를 바탕으로 보다 나은 의사결정을 하기위해 이에 대한 과학적 방법을 연구하는 분야
