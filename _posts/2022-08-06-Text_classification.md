@@ -1,5 +1,4 @@
 ---
-published: true
 layout: single
 title: 'Text_classification'
 categories: Code
