@@ -1,3 +1,14 @@
+---
+layout: single
+title: 'Text_classification'
+categories: Code
+tag: Pytorch
+toc: true
+author_profile: false
+sidebar:
+  nav: 'docs'
+---
+
 ## RNN이란?
 
 - 정해지지 않은 길이의 배열을 읽고 설명하는 신경망
